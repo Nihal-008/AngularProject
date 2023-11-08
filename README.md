@@ -1,3 +1,9 @@
+![angularAsses](https://github.com/Nihal-008/AngularProject/assets/138968948/161f3b70-c0ca-4bbd-93c9-f02e46739750)
+![angularAsses1](https://github.com/Nihal-008/AngularProject/assets/138968948/b95f9f44-9fa0-40bf-a581-60ab4f8d5ef4)
+![angularAsses3](https://github.com/Nihal-008/AngularProject/assets/138968948/ea25cd31-a846-4c21-a0a8-2a7d6f23dd2f)
+
+
+
 # AngularAssessment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
